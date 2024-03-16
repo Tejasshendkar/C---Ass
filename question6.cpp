@@ -13,7 +13,7 @@ class Area{
     private:
         int length,breadth,a;
     public:
-    setDim(int l, int b ){
+     void setDim(int l, int b ){
         length=l;
         breadth=b;
 
